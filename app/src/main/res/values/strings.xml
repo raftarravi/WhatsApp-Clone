@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Whatsapp Clone</string>
+    <string name="default_web_client_id">376355195994-uovbtl1aii94r9dt4k1vnugp8l7c3v3p.apps.googleusercontent.com</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
